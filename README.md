@@ -1,5 +1,8 @@
 # Andragogy
 Learning how to learn.
+
+[Top 10 Learning Objectives](/LearningObjectives.ppsx)
+
 - [Reciprocal Teaching](/reciprocal-teaching/README.md)
 - [Bloom's Taxonomy](/blooms-taxonomy/README.md)
 - [Questioning Techniques](/questioning-techniques/README.md)
